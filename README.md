@@ -11,11 +11,11 @@ Além de estar cursando Engenharia de Software na UMC, também tenho formação 
 
 Sou movido por desafios e busco a excelência técnica em cada projeto que desenvolvo. Hoje, meu objetivo é unir a bagagem da indústria ao que venho construindo em tecnologia, contribuindo com maturidade, dedicação e vontade de aprender.
 
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,aws,docker,linux,github,git,githubactions" alt="Tecnologias" />
 
-### 📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 Quer trocar uma ideia ou colaborar em algum projeto? Me chama:
 
