@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Seja+bem-vindo+ao+meu+perfil!" />
 </div>
 
-## Olá, eu sou Carlos Vinicius <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Olá, eu sou Carlos Vinicius <img src="hi.gif" width="30px">
 
 Estudante de Engenharia de Software com 7 anos de experiência profissional na indústria têxtil, e no momento em transição de carreira para a área de tecnologia. Atualmente sou estagiário no LaBiOmicS, trabalhando principalmente com IA, treinando modelos de aprendizagem supervisionada.
 
@@ -19,7 +19,7 @@ Sou movido por desafios e busco a excelência técnica em cada projeto que desen
 
 Quer trocar uma ideia ou colaborar em algum projeto? Me chama:
 
-<p align="left"> <a href="https://www.linkedin.com/in/carlosviniciusborba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:viniciusborba2010@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0F2C6B?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+<p align="left"> <a href="https://www.linkedin.com/in/carlosviniciusborba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:viniciusborba2010@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0F2C6B?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a></p>
 
 <!--
 
