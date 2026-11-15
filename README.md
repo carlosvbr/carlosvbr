@@ -5,7 +5,7 @@
 
 ## Olá, eu sou Carlos Vinicius <img src="hi.gif" width="30px">
 
-Estudante de Engenharia de Software com 7 anos de experiência profissional na indústria têxtil, e no momento em transição de carreira para a área de tecnologia. Atualmente sou estagiário no LaBiOmicS, trabalhando principalmente com IA, treinando modelos de aprendizagem supervisionada.
+Estudante de Engenharia de Software com 7 anos de experiência profissional na indústria têxtil e, no momento em transição de carreira para a área de tecnologia. Atualmente sou estagiário no LaBiOmicS, trabalhando principalmente com IA, treinando modelos de aprendizagem supervisionada.
 
 Além de estar cursando Engenharia de Software na UMC, também tenho formação como Técnico em Administração pela ETEC de Suzano.
 
